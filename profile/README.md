@@ -16,7 +16,7 @@ At 0xCB, we are experts in PCB design and have a track record of delivering high
 
 ### Open Source Contributions
 
-As a company, we believe in the power of open-source technology and regularly contribute to a variety of open-source projects. You can find a list of our open-source contributions on our GitHub profile.
+As a company, we believe in the power of open-source technology and regularly contribute to a variety of open-source projects!
 
 ### Social Media
 
