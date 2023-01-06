@@ -1,8 +1,10 @@
+## 0xCB
+
 Welcome to 0xCB, a company that specializes in creating custom keyboards and designing PCBs for a wide range of clients.
 
 ### Our Services
 
-Our team is passionate about the intersection of hardware and software, and we take pride in our ability to bring our clients' ideas to life. Whether it's a one-off custom keyboard or a larger project requiring a run of PCBs, we have the skills and experience to deliver high-quality results.
+Our team is passionate about the intersection of hardware and software, and we take pride in our ability to bring our client's ideas to life. Whether it's a one-off custom keyboard or a larger project requiring a run of PCBs, we have the skills and experience to deliver high-quality results.
 
 ### Our Products
 
@@ -10,11 +12,11 @@ In addition to our custom work, we also offer a range of our own high-quality ke
 
 ### PCB Design Skills
 
-At 0xCB, we are experts in PCB design and have a track record of delivering high-quality designs for a wide range of clients. Our team has experience with a variety of PCB design tools and we take pride in our attention to detail and ability to bring our clients' vision to life.
+At 0xCB, we are experts in PCB design and have a track record of delivering high-quality designs for a wide range of clients. Our team has experience with a variety of PCB design tools and we take pride in our attention to detail and ability to bring our client's vision to life.
 
 ### Open Source Contributions
 
-As a company, we believe in the power of open source technology and regularly contribute to a variety of open source projects. You can find a list of our open source contributions on our GitHub profile.
+As a company, we believe in the power of open-source technology and regularly contribute to a variety of open-source projects. You can find a list of our open-source contributions on our GitHub profile.
 
 ### Social Media
 
