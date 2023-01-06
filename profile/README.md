@@ -1,5 +1,3 @@
-## 0xCB
-
 Welcome to 0xCB, a company that specializes in creating custom keyboards and designing PCBs for a wide range of clients.
 
 ### Our Services
