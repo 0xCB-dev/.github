@@ -28,4 +28,6 @@ Thank you for considering us for your hardware and design needs. We look forward
 
 [![GitHub followers](https://img.shields.io/github/followers/0xCB-dev.svg?style=social&label=Follow)](https://github.com/0xCB-dev) [![GitHub Stars](https://img.shields.io/github/stars/0xCB-dev.svg?style=social&label=Stars)](https://github.com/0xCB-dev)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M4JVQE8)
+
 :heart:
