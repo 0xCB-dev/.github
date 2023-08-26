@@ -21,7 +21,7 @@ As a company, we believe in the power of open-source technology and regularly co
 You can find us on the following social media platforms:
 
 - [Discord](https://discord.gg/WpmFC2NRWV)
-- [Instagram](https://www.instagram.com/keeb.supply/)
+- [Instagram](https://www.instagram.com/keeb.supply_0xcb/)
 - [Reddit](https://www.reddit.com/user/0xCB-dev)
 
 Thank you for considering us for your hardware and design needs. We look forward to working with you!
